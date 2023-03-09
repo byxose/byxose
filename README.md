@@ -4,4 +4,4 @@
 <a href="https://discord.gg/2suPRE425" target="_blank">
   	<img width="50%" align="right" alt="Discord Server" src="https://discord.com/api/guilds/756175494587744316/widget.png?style=banner2">
 </a>
-Hi, I'm byxose
+Hi, I'm byxose.
